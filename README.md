@@ -25,7 +25,7 @@ A real-time finger counting system built with **Python**, **MediaPipe**, and **O
 ## 🖥️ Demo Screenshot
 
 ![AI Finger Counter Demo](demo-screenshot.jpg)
-> Note: Replace with your actual screenshot of the application in action.
+
 
 ## 🛠️ Installation & Setup
 
@@ -78,8 +78,8 @@ AI-Finger-Counter/
 **Shivraj Ravindra Yadav**  
 📍 Solapur, Maharashtra  
 🚀 AI & Machine Learning Engineer | Full-Stack Developer  
-📬 [Connect on LinkedIn](https://www.linkedin.com/in/your-profile/)  
-🌐 [Portfolio](https://your-portfolio-site.com)
+📬 [Connect on LinkedIn](https://www.linkedin.com/in/shivraj-yadav-a776aa257/)  
+
 
 ## ⭐ Support This Project
 
